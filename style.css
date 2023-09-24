@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    text-align: center;
+  }
+  
+  .groups {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .groups li {
+    margin: 10px;  
+  }
+  
+  a {
+    color: blue;
+    text-decoration: none;
+  }
+  .cell {
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
